@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "name": "http-example",
+  "builds": [
+    {
+      "src": "*",
+      "use": "@now/static"
+    }
+  ],
+  "alias": [
+    "http-example"
+  ]
+}
